@@ -1,9 +1,9 @@
-train: ../train/images
+train: ../train/images 
 val: ../valid/images
 test: ../test/images
 
 nc: 2
-names: ['data_matrix', 'qr']
+names: ['qr', 'data_matrix']
 
 roboflow:
   workspace: polevoytask
