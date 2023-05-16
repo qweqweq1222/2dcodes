@@ -16,3 +16,4 @@ cp qr/train/images/* "test_dataset/images";
 cp qr/train/labels/* "test_dataset/labels";
 cp dm/train/images/* "test_dataset/images";
 cp dm/train/labels/* "test_dataset/labels";
+
